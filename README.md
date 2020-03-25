@@ -1,7 +1,7 @@
 # smile v1.0
 Take webcam shots from target just sending a malicious link
 
-![cheese](https://www.google.com/search?q=smile+pics&tbm=isch&source=iu&ictx=1&fir=DP4_f9aZ5UcBXM%253A%252CrlFxp5E0LDtj-M%252C_&vet=1&usg=AI4_-kQC4kmw6W2nfjbfP0Cen-SU6Ow_gg&sa=X&ved=2ahUKEwj8zoa3h7XoAhWpzjgGHfAADfkQ9QEwAXoECAoQMQ#imgrc=DP4_f9aZ5UcBXM:)
+![smile] printf "SMILE"
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
@@ -14,7 +14,7 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/thelinuxchoice/smile
+git clone https://github.com/crazysquad007/smile
 cd smile
 bash smile.sh
 ```
